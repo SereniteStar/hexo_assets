@@ -11,3 +11,4 @@ https://cdn.jsdelivr.net/gh/SereniteStar/hexo_assets@master/path/image.png
 ```
 > It looks like:
 <img src="https://cdn.jsdelivr.net/gh/SereniteStar/hexo_assets@master/icons/ss-logo.png" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/SereniteStar/hexo_assets@master/icons/maodie.png" style="zoom:50%;" />
