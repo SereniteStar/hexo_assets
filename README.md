@@ -7,5 +7,7 @@ https://cdn.jsdelivr.net/gh/SereniteStar/hexo_assets@master/path/image.png
 ```
 > For example, if you are going to quote icon of Seeglo Software, you can add the code below in your html:
 ```html
-<img src="https://cdn.jsdelivr.net/gh/SereniteStar/hexo_assets@master/icons/ss-logo.png" style="zoom:100%;" />
+<img src="https://cdn.jsdelivr.net/gh/SereniteStar/hexo_assets@master/icons/ss-logo.png" style="zoom:50%;" />
 ```
+> It looks like:
+<img src="https://cdn.jsdelivr.net/gh/SereniteStar/hexo_assets@master/icons/ss-logo.png" style="zoom:50%;" />
